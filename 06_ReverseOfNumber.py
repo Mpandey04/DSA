@@ -1,0 +1,1 @@
+n=int(input("Give any number for checking palindrome\n"))
