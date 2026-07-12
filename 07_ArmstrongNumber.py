@@ -23,3 +23,4 @@ if (n==isArmstrong):
     print(f"{n} is a armstrong number")
 else:
     print(f"{n} is not a armstrong number")
+    
