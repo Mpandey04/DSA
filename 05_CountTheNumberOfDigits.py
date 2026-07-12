@@ -10,6 +10,8 @@ while num>0:
 print(f"Total number of digits:{count}")
 
 def countOfDigit(num):
+    if(num==0):
+        return 1
     return floor(log10(num)+1)
 
 print(f"Total number of digits: {countOfDigit(n)}")
