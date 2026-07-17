@@ -18,7 +18,7 @@ def insertionSort(arr):
 print(li)
 print("="*50)
 insertionSort(li)
-print(li)
+
 
 # Time Complexity-O(n(n+1)/2)~~O(N square)
 # Space complexity-
