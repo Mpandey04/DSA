@@ -15,7 +15,7 @@ def BubbleSort(arr):
     
 print("="*40)
 BubbleSort(li)
-
+print(BubbleSort[1,6,8,10,12])
 
 #Time complexity=O(n(n+1)/2)
 # Space complexity=O(1)
